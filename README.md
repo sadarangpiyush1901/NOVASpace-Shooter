@@ -15,7 +15,7 @@ A high-performance 2D arcade space combat engine built from scratch using Python
 ## 💻 Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sadarangpiyush1901/NOVASpace-Shooter.git]                                       (https://github.com/sadarangpiyush1901/NOVASpace-Shooter.git)
+    [https://github.com/sadarangpiyush1901/NOVASpace-Shooter.git]                                       (https://github.com/sadarangpiyush1901/NOVASpace-Shooter.git)
   
 
 # Install dependencies:
